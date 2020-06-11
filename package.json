@@ -1,5 +1,7 @@
 {
   "name": "rails-stupid-coaching",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "activesupport": "^0.1.4"
+  }
 }
